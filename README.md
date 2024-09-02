@@ -1,1 +1,1 @@
-## this is an End to End Data Analytics Project
+## This is an End to End Data Analytics Project
