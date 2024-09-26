@@ -1,1 +1,2 @@
-## This is an End to End Data Analytics Project
+## End to End Data Analytics Project
+An modular coding approach.
